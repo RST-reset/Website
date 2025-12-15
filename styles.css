@@ -1,7 +1,7 @@
 /* Fonts */
 @font-face {
     font-family: 'TerminusTTFWindows';
-    src: url('Fonts/TerminusTTFWindows-4.49.3.ttf') format('truetype');
+    src: url('Fonts/TerminusTTFWindows-4.49.3.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
